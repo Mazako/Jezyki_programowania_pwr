@@ -1,0 +1,8 @@
+rootProject.name = 'Jezyki_programowania_pwr'
+include 'final_exam'
+include 'lab2'
+include 'lab3'
+include 'lab4'
+include 'lab5'
+include 'lab6_chat_application'
+include 'lab6_phone_book_client_server'

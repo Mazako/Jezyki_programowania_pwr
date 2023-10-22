@@ -1,0 +1,7 @@
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'pl.mazak.lab2.view.swing.Main'
+        )
+    }
+}
